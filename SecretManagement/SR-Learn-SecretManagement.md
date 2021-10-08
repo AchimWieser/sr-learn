@@ -139,5 +139,5 @@ Version | Name                                   | ProjectUri
 
 ## Code Examples for ScriptRunner
 
-[Local SecretStore](./scriptrunner/TestLocalStore.ps1)
-[Azure Key Vault](./scriptrunner/TestAzKeyVault.ps1)
+- [Local SecretStore](./scriptrunner/TestLocalStore.ps1)
+- [Azure Key Vault](./scriptrunner/TestAzKeyVault.ps1)
